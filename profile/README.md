@@ -1,6 +1,7 @@
 # Muir Lab
 
 Gilbert S. Omenn Department of Computational Medicine and Bioinformatics · University of Michigan · Ann Arbor, MI
+https://medschool.umich.edu/departments/computational-medicine-bioinformatics
 
 Our work combines transcriptomics technologies with computational tools to understand
 to learn the rules by which cells can be reprogrammed from one state into another.
