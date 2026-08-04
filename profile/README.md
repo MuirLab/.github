@@ -88,5 +88,4 @@ cell reprogramming. Reach out by email.
 - 🎓 Faculty page: https://medschool.umich.edu/profile/4976/lindsey-muir
 - 🆔 ORCID: https://orcid.org/0000-0002-1756-0325
 - 🔬 Google Scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=909MdsAAAAAJ
--  Web of Science: 
 - ✉️ Contact: lindmuir@umich.edu
