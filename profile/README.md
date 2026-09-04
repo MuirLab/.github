@@ -21,7 +21,7 @@ to learn the rules by which cells can be reprogrammed from one state into anothe
 
 - Cwycyshyn J, Stansbury C, Golts S, Lee H, Pickard J, Meixner W, Rajapakse I,
   Muir LA. *Transcriptional landscape of direct reprogramming toward
-  hematopoietic stem cells.* **iScience** 29(9):117266, 2026.
+  hematopoietic stem cells.* **iScience** 29(9):117266, 2026. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2589004226026441)
 - Pickard J, Stansbury C, Surana A, Muir LA, Bloch A, Rajapakse I.
   *Dynamic sensor selection for biomarker discovery.* **PNAS** 122:e2501324122,
   2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41055977/)
